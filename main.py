@@ -43,16 +43,3 @@ def evaluate_expression(oper, num1, num2):
     print(result)
 
 evaluate_expression(*parse_arguments(read_expression_str()))
-
-
-
-
-
-
-
-
-
-
-
-
-
